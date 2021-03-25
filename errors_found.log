@@ -1,0 +1,5 @@
+July 31 04:11:32 mycomputername CRON[51253]: ERROR: Failed to start CRON job due to script syntax                                                                       error. Inform the CRON job owner!
+student-02-cfb057aeaa85@linux-instance:~/scripts$ CRON ERROR Failed to start
+What is the error? CRON ERROR Failed to start
+July 31 04:11:32 mycomputername CRON[51253]: ERROR: Failed to start CRON job due to script syntax                                                                       error. Inform the CRON job owner!
+July 31 04:11:32 mycomputername CRON[51253]: ERROR: Failed to start CRON job due to script syntax error. Inform the CRON job owner!
